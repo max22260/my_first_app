@@ -1,0 +1,15 @@
+{
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+
+
+    "window.zoomLevel": 2,
+
+    "window.autoDetectColorScheme": true
+
+
+}
